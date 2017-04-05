@@ -840,3 +840,32 @@
 
 1490802639 c:\users\dorin\desktop\protector\interface.h
 
+1490767466 source:c:\users\dorin\desktop\protector-master\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	<sys/stat.h>
+	"globals.h"
+	"Drag&Drop.h"
+	"authentication.h"
+	"SwapEncryption.h"
+	"files.h"
+	"Interface.h"
+
+1490767466 c:\users\dorin\desktop\protector-master\globals.h
+
+1490767466 c:\users\dorin\desktop\protector-master\drag&drop.h
+
+1490767466 c:\users\dorin\desktop\protector-master\authentication.h
+
+1490767466 c:\users\dorin\desktop\protector-master\swapencryption.h
+
+1490767466 c:\users\dorin\desktop\protector-master\files.h
+
+1490767466 c:\users\dorin\desktop\protector-master\interface.h
+
