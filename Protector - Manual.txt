@@ -1,0 +1,21 @@
+---- Protector ----
+
+
+Taste:
+ENTER - Confirma/Selecteaza
+BackSpace - Inapoi
+Sageata Sus/Jos - Navigheaza
+
+Culori ale barei de sus:
+Rosu: Accepta tasa ENTER/Sageti/Backspace/Tastatura
+Galben: Vrea cale catre un direcotr
+Verde: Vrea cale catre fisiere cu extensie
+
+Culori Text din raport:
+Rosu: Eroare
+Albastru: Informare/Necesita confirmare
+Verde: Sfarsitul optim al operatiei in desfasurare
+
+Culori generale:
+Rosu cu fundal alb: Mesaj de eroare TEMPORAR
+Verde cu fundal alb: Mesaj de informare TEMPORAR
