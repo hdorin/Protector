@@ -1,3 +1,0 @@
-Taste:
-Arrow keys - selectarea optiunilor de pe ecran
-Backspace - salt la meniul precedent
