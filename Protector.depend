@@ -811,7 +811,7 @@
 
 1474230641 d:\protector c++\program\1.39.1\protector\interface.h
 
-1490803081 source:c:\users\dorin\desktop\protector\main.cpp
+1511184076 source:d:\haloc\desktop\protector c++\program\1.39.1\protector\main.cpp
 	<iostream>
 	<fstream>
 	<string.h>
@@ -820,6 +820,7 @@
 	<time.h>
 	<stdlib.h>
 	<thread>
+	<unistd.h>
 	<sys/stat.h>
 	"globals.h"
 	"Drag&Drop.h"
@@ -828,44 +829,15 @@
 	"files.h"
 	"Interface.h"
 
-1474194133 c:\users\dorin\desktop\protector\globals.h
+1474197733 d:\haloc\desktop\protector c++\program\1.39.1\protector\globals.h
 
-1490802639 c:\users\dorin\desktop\protector\drag&drop.h
+1474198982 d:\haloc\desktop\protector c++\program\1.39.1\protector\drag&drop.h
 
-1490802639 c:\users\dorin\desktop\protector\authentication.h
+1474234241 d:\haloc\desktop\protector c++\program\1.39.1\protector\authentication.h
 
-1474197231 c:\users\dorin\desktop\protector\swapencryption.h
+1474200831 d:\haloc\desktop\protector c++\program\1.39.1\protector\swapencryption.h
 
-1490802639 c:\users\dorin\desktop\protector\files.h
+1474204048 d:\haloc\desktop\protector c++\program\1.39.1\protector\files.h
 
-1490802639 c:\users\dorin\desktop\protector\interface.h
-
-1490767466 source:c:\users\dorin\desktop\protector-master\main.cpp
-	<iostream>
-	<fstream>
-	<string.h>
-	<windows.h>
-	<conio.h>
-	<time.h>
-	<stdlib.h>
-	<thread>
-	<sys/stat.h>
-	"globals.h"
-	"Drag&Drop.h"
-	"authentication.h"
-	"SwapEncryption.h"
-	"files.h"
-	"Interface.h"
-
-1490767466 c:\users\dorin\desktop\protector-master\globals.h
-
-1490767466 c:\users\dorin\desktop\protector-master\drag&drop.h
-
-1490767466 c:\users\dorin\desktop\protector-master\authentication.h
-
-1490767466 c:\users\dorin\desktop\protector-master\swapencryption.h
-
-1490767466 c:\users\dorin\desktop\protector-master\files.h
-
-1490767466 c:\users\dorin\desktop\protector-master\interface.h
+1511184770 d:\haloc\desktop\protector c++\program\1.39.1\protector\interface.h
 

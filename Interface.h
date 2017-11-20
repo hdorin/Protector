@@ -67,14 +67,14 @@ void Login(){
     cout<<"\n Introducere cheie\n Cheie noua";
     do{
         if(pos==1){
-            gotoxy(3,0);
-            cout<<" ";
             gotoxy(2,0);
+            cout<<" ";
+            gotoxy(1,0);
             cout<<">\b";
         }else{
-            gotoxy(2,0);
+            gotoxy(1,0);
             cout<<" ";
-            gotoxy(3,0);
+            gotoxy(2,0);
             cout<<">\b";
         }
         c=getch();
@@ -135,7 +135,7 @@ void Login(){
         cout<<"Parola  :\n";
         cout<<"Confrima:\n";
         cout<<"Indiciu :";
-        gotoxy(2,9);  cin.getline(Name,FILENAME_MAX);
+        gotoxy(1,9);  cin.getline(Name,FILENAME_MAX);
         {
             char AuxName[FILENAME_MAX];
             strcpy(AuxName,Name);
@@ -151,9 +151,9 @@ void Login(){
                 goto OptiuneaAleasa;
             }
         }
-        gotoxy(3,9);GetPassword();
+        gotoxy(2,9);GetPassword();
         strcpy(PasswordConfirm,Password);
-        gotoxy(4,9);GetPassword();
+        gotoxy(3,9);GetPassword();
         if(strcmp(Password,PasswordConfirm)!=0){
             gotoxy(5,0);
             SetConsoleTextAttribute(hConsole, 12+15*16);
@@ -162,7 +162,7 @@ void Login(){
             SetConsoleTextAttribute(hConsole, 0+0*16);
             goto OptiuneaAleasa;
         }
-        gotoxy(5,9);
+        gotoxy(4,9);
         cin.getline(PasswordHint,100);
         {
             GenerateProtectedKey(Name);
@@ -184,7 +184,7 @@ void FilesManagement_Descriptions(int pos);
 
 void FilesManagement(){
 
-    pos=1;
+    pos=0;
     Meniu:///GOTO MENIU
     system("cls");
     SetConsoleTextAttribute(hConsole, 7+4*16);
@@ -202,14 +202,14 @@ void FilesManagement(){
             system("cls");
             return ;
         }
-        if(c==80&&pos<3){
+        if(c==80&&pos<2){
             gotoxy(pos+1,0);
             cout<<" ";
             pos++;
             gotoxy(pos+1,0);
             cout<<">\b";
         }else
-            if(c==72&&pos>1){
+            if(c==72&&pos>0){
                 gotoxy(pos+1,0);
                 cout<<" ";
                 pos--;
@@ -219,15 +219,15 @@ void FilesManagement(){
     }while(c!=13);
     //Meniu Criptare
     system("cls");
-    if(pos==1){
+    if(pos==0){
         FilesManagement_Encryption();
         goto Meniu;
     }else
-        if(pos==2){
+        if(pos==1){
             FilesManagement_Access();
             goto Meniu;
         }else
-            if(pos==3){
+            if(pos==2){
                 FilesManagement_Decryption();
                 goto Meniu;
             }
