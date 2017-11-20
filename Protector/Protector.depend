@@ -1,0 +1,843 @@
+# depslib dependency file v1.0
+1470217185 source:d:\program criptare c++\program\0.20\bse\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	"Drag&Drop.h"
+	"SwapEncryption.h"
+	"files.h"
+
+1470139167 d:\program criptare c++\program\0.20\bse\drag&drop.h
+
+1470217234 d:\program criptare c++\program\0.20\bse\swapencryption.h
+
+1470170785 d:\program criptare c++\program\0.20\bse\files.h
+
+1470230052 source:d:\program criptare c++\program\0.20\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	"Drag&Drop.h"
+	"files.h"
+	"SwapEncryption.h"
+
+1470139167 d:\program criptare c++\program\0.20\protector\drag&drop.h
+
+1470230069 d:\program criptare c++\program\0.20\protector\swapencryption.h
+
+1470170785 d:\program criptare c++\program\0.20\protector\files.h
+
+1470329482 source:d:\program criptare c++\program\0.25\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	"Drag&Drop.h"
+	"files.h"
+	"SwapEncryption.h"
+
+1470139167 d:\program criptare c++\program\0.25\protector\drag&drop.h
+
+1470329804 d:\program criptare c++\program\0.25\protector\files.h
+
+1470329566 d:\program criptare c++\program\0.25\protector\swapencryption.h
+
+1470404140 source:d:\program criptare c++\program\0.30\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	"Drag&Drop.h"
+	"files.h"
+	"SwapEncryption.h"
+
+1470139167 d:\program criptare c++\program\0.30\protector\drag&drop.h
+
+1470404184 d:\program criptare c++\program\0.30\protector\files.h
+
+1470397290 d:\program criptare c++\program\0.30\protector\swapencryption.h
+
+1470405079 source:d:\program criptare c++\program\0.31\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	"Drag&Drop.h"
+	"SwapEncryption.h"
+	"files.h"
+
+1470139167 d:\program criptare c++\program\0.31\protector\drag&drop.h
+
+1470404758 d:\program criptare c++\program\0.31\protector\swapencryption.h
+
+1470405187 d:\program criptare c++\program\0.31\protector\files.h
+
+1470408740 source:d:\program criptare c++\program\0.32\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	"Drag&Drop.h"
+	"SwapEncryption.h"
+	"files.h"
+
+1470139167 d:\program criptare c++\program\0.32\protector\drag&drop.h
+
+1470404758 d:\program criptare c++\program\0.32\protector\swapencryption.h
+
+1470408827 d:\program criptare c++\program\0.32\protector\files.h
+
+1470479093 source:d:\program criptare c++\program\0.33\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	"Drag&Drop.h"
+	"SwapEncryption.h"
+	"files.h"
+
+1470139167 d:\program criptare c++\program\0.33\protector\drag&drop.h
+
+1470404758 d:\program criptare c++\program\0.33\protector\swapencryption.h
+
+1470479183 d:\program criptare c++\program\0.33\protector\files.h
+
+1470481354 source:d:\program criptare c++\program\0.34\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	"Drag&Drop.h"
+	"SwapEncryption.h"
+	"files.h"
+
+1470139167 d:\program criptare c++\program\0.34\protector\drag&drop.h
+
+1470404758 d:\program criptare c++\program\0.34\protector\swapencryption.h
+
+1470481396 d:\program criptare c++\program\0.34\protector\files.h
+
+1470483480 source:d:\program criptare c++\program\0.35\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	"Drag&Drop.h"
+	"SwapEncryption.h"
+	"files.h"
+
+1470139167 d:\program criptare c++\program\0.35\protector\drag&drop.h
+
+1470404758 d:\program criptare c++\program\0.35\protector\swapencryption.h
+
+1470483411 d:\program criptare c++\program\0.35\protector\files.h
+
+1470490290 source:d:\program criptare c++\program\0.40\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	"Drag&Drop.h"
+	"SwapEncryption.h"
+	"files.h"
+
+1470490370 d:\program criptare c++\program\0.40\protector\drag&drop.h
+
+1470485729 d:\program criptare c++\program\0.40\protector\swapencryption.h
+
+1470490498 d:\program criptare c++\program\0.40\protector\files.h
+
+1471605441 source:d:\program criptare c++\program\0.50\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	"Drag&Drop.h"
+	"SwapEncryption.h"
+	"files.h"
+	"authentication.h"
+
+1470490370 d:\program criptare c++\program\0.50\protector\drag&drop.h
+
+1471602659 d:\program criptare c++\program\0.50\protector\swapencryption.h
+
+1471538962 d:\program criptare c++\program\0.50\protector\files.h
+
+1471605493 d:\program criptare c++\program\0.50\protector\authentication.h
+
+1473190972 source:d:\program criptare c++\program\0.60\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	"Drag&Drop.h"
+	"authentication.h"
+	"SwapEncryption.h"
+	"files.h"
+	"Interface.h"
+
+1470490370 d:\program criptare c++\program\0.60\protector\drag&drop.h
+
+1473191057 d:\program criptare c++\program\0.60\protector\authentication.h
+
+1473190944 d:\program criptare c++\program\0.60\protector\swapencryption.h
+
+1473189643 d:\program criptare c++\program\0.60\protector\files.h
+
+1473190332 d:\program criptare c++\program\0.60\protector\interface.h
+
+1473249518 source:d:\program criptare c++\program\0.65\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	"Drag&Drop.h"
+	"authentication.h"
+	"SwapEncryption.h"
+	"files.h"
+	"Interface.h"
+
+1470490370 d:\program criptare c++\program\0.65\protector\drag&drop.h
+
+1473239605 d:\program criptare c++\program\0.65\protector\authentication.h
+
+1473190944 d:\program criptare c++\program\0.65\protector\swapencryption.h
+
+1473249728 d:\program criptare c++\program\0.65\protector\files.h
+
+1473249386 d:\program criptare c++\program\0.65\protector\interface.h
+
+1473340634 source:d:\program criptare c++\program\0.66\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	"Drag&Drop.h"
+	"authentication.h"
+	"SwapEncryption.h"
+	"files.h"
+	"Interface.h"
+
+1470490370 d:\program criptare c++\program\0.66\protector\drag&drop.h
+
+1473239605 d:\program criptare c++\program\0.66\protector\authentication.h
+
+1473373506 d:\program criptare c++\program\0.66\protector\swapencryption.h
+
+1473373116 d:\program criptare c++\program\0.66\protector\files.h
+
+1473369988 d:\program criptare c++\program\0.66\protector\interface.h
+
+1473422858 source:d:\program criptare c++\program\0.68\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	<Wincon.h>
+	"Drag&Drop.h"
+	"authentication.h"
+	"SwapEncryption.h"
+	"files.h"
+	"Interface.h"
+
+1473407521 d:\program criptare c++\program\0.68\protector\drag&drop.h
+
+1473422333 d:\program criptare c++\program\0.68\protector\authentication.h
+
+1473406928 d:\program criptare c++\program\0.68\protector\swapencryption.h
+
+1473412209 d:\program criptare c++\program\0.68\protector\files.h
+
+1473423536 d:\program criptare c++\program\0.68\protector\interface.h
+
+1473422858 source:d:\program criptare c++\program\1.00\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	<Wincon.h>
+	"Drag&Drop.h"
+	"authentication.h"
+	"SwapEncryption.h"
+	"files.h"
+	"Interface.h"
+
+1473424532 d:\program criptare c++\program\1.00\protector\drag&drop.h
+
+1473422333 d:\program criptare c++\program\1.00\protector\authentication.h
+
+1473406928 d:\program criptare c++\program\1.00\protector\swapencryption.h
+
+1473412209 d:\program criptare c++\program\1.00\protector\files.h
+
+1473424691 d:\program criptare c++\program\1.00\protector\interface.h
+
+1473422858 source:d:\program criptare c++\program\1.02 - copy\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	<Wincon.h>
+	"Drag&Drop.h"
+	"authentication.h"
+	"SwapEncryption.h"
+	"files.h"
+	"Interface.h"
+
+1473424532 d:\program criptare c++\program\1.02 - copy\protector\drag&drop.h
+
+1473422333 d:\program criptare c++\program\1.02 - copy\protector\authentication.h
+
+1473406928 d:\program criptare c++\program\1.02 - copy\protector\swapencryption.h
+
+1473412209 d:\program criptare c++\program\1.02 - copy\protector\files.h
+
+1473425009 d:\program criptare c++\program\1.02 - copy\protector\interface.h
+
+1473427520 source:d:\program criptare c++\program\1.12\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	<unistd.h>
+	<sys/stat.h>
+	"Drag&Drop.h"
+	"authentication.h"
+	"SwapEncryption.h"
+	"files.h"
+	"Interface.h"
+
+1473424532 d:\program criptare c++\program\1.12\protector\drag&drop.h
+
+1473422333 d:\program criptare c++\program\1.12\protector\authentication.h
+
+1473406928 d:\program criptare c++\program\1.12\protector\swapencryption.h
+
+1473448727 d:\program criptare c++\program\1.12\protector\files.h
+
+1473452115 d:\program criptare c++\program\1.12\protector\interface.h
+
+1473427520 source:d:\program criptare c++\program\1.19\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	<unistd.h>
+	<sys/stat.h>
+	"Drag&Drop.h"
+	"authentication.h"
+	"SwapEncryption.h"
+	"files.h"
+	"Interface.h"
+
+1473507794 d:\program criptare c++\program\1.19\protector\drag&drop.h
+
+1473422333 d:\program criptare c++\program\1.19\protector\authentication.h
+
+1473406928 d:\program criptare c++\program\1.19\protector\swapencryption.h
+
+1473508647 d:\program criptare c++\program\1.19\protector\files.h
+
+1473508698 d:\program criptare c++\program\1.19\protector\interface.h
+
+1473427520 source:d:\program criptare c++\program\1.20\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	<unistd.h>
+	<sys/stat.h>
+	"Drag&Drop.h"
+	"authentication.h"
+	"SwapEncryption.h"
+	"files.h"
+	"Interface.h"
+
+1473539727 d:\program criptare c++\program\1.20\protector\drag&drop.h
+
+1473422333 d:\program criptare c++\program\1.20\protector\authentication.h
+
+1473406928 d:\program criptare c++\program\1.20\protector\swapencryption.h
+
+1473581298 d:\program criptare c++\program\1.20\protector\files.h
+
+1473583675 d:\program criptare c++\program\1.20\protector\interface.h
+
+1473427520 source:d:\program criptare c++\program\1.21\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	<unistd.h>
+	<sys/stat.h>
+	"Drag&Drop.h"
+	"authentication.h"
+	"SwapEncryption.h"
+	"files.h"
+	"Interface.h"
+
+1473539727 d:\program criptare c++\program\1.21\protector\drag&drop.h
+
+1473422333 d:\program criptare c++\program\1.21\protector\authentication.h
+
+1473406928 d:\program criptare c++\program\1.21\protector\swapencryption.h
+
+1473581298 d:\program criptare c++\program\1.21\protector\files.h
+
+1473626873 d:\program criptare c++\program\1.21\protector\interface.h
+
+1473427520 source:d:\program criptare c++\program\1.23\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	<unistd.h>
+	<sys/stat.h>
+	"Drag&Drop.h"
+	"authentication.h"
+	"SwapEncryption.h"
+	"files.h"
+	"Interface.h"
+
+1473539727 d:\program criptare c++\program\1.23\protector\drag&drop.h
+
+1473422333 d:\program criptare c++\program\1.23\protector\authentication.h
+
+1473406928 d:\program criptare c++\program\1.23\protector\swapencryption.h
+
+1473689432 d:\program criptare c++\program\1.23\protector\files.h
+
+1473689969 d:\program criptare c++\program\1.23\protector\interface.h
+
+1473427520 source:d:\program criptare c++\program\1.30\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	<unistd.h>
+	<sys/stat.h>
+	"Drag&Drop.h"
+	"authentication.h"
+	"SwapEncryption.h"
+	"files.h"
+	"Interface.h"
+
+1473539727 d:\program criptare c++\program\1.30\protector\drag&drop.h
+
+1473422333 d:\program criptare c++\program\1.30\protector\authentication.h
+
+1473406928 d:\program criptare c++\program\1.30\protector\swapencryption.h
+
+1473694009 d:\program criptare c++\program\1.30\protector\files.h
+
+1473694061 d:\program criptare c++\program\1.30\protector\interface.h
+
+1473714992 source:d:\program criptare c++\program\1.31\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	<unistd.h>
+	<sys/stat.h>
+	"Drag&Drop.h"
+	"authentication.h"
+	"SwapEncryption.h"
+	"files.h"
+	"Interface.h"
+
+1473765529 d:\program criptare c++\program\1.31\protector\drag&drop.h
+
+1473422333 d:\program criptare c++\program\1.31\protector\authentication.h
+
+1473406928 d:\program criptare c++\program\1.31\protector\swapencryption.h
+
+1473766984 d:\program criptare c++\program\1.31\protector\files.h
+
+1473766537 d:\program criptare c++\program\1.31\protector\interface.h
+
+1473714992 source:d:\protector c++\program\1.33\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	<unistd.h>
+	<sys/stat.h>
+	"Drag&Drop.h"
+	"authentication.h"
+	"SwapEncryption.h"
+	"files.h"
+	"Interface.h"
+
+1473765529 d:\protector c++\program\1.33\protector\drag&drop.h
+
+1473776525 d:\protector c++\program\1.33\protector\authentication.h
+
+1473775995 d:\protector c++\program\1.33\protector\swapencryption.h
+
+1473772624 d:\protector c++\program\1.33\protector\files.h
+
+1473773069 d:\protector c++\program\1.33\protector\interface.h
+
+1473777052 source:d:\protector c++\program\1.35\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	<unistd.h>
+	<sys/stat.h>
+	"Drag&Drop.h"
+	"authentication.h"
+	"SwapEncryption.h"
+	"files.h"
+	"Interface.h"
+
+1473765529 d:\protector c++\program\1.35\protector\drag&drop.h
+
+1473776718 d:\protector c++\program\1.35\protector\authentication.h
+
+1473775995 d:\protector c++\program\1.35\protector\swapencryption.h
+
+1473772624 d:\protector c++\program\1.35\protector\files.h
+
+1473777414 d:\protector c++\program\1.35\protector\interface.h
+
+1473777052 source:d:\protector c++\program\1.36\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	<unistd.h>
+	<sys/stat.h>
+	"Drag&Drop.h"
+	"authentication.h"
+	"SwapEncryption.h"
+	"files.h"
+	"Interface.h"
+
+1473765529 d:\protector c++\program\1.36\protector\drag&drop.h
+
+1473795261 d:\protector c++\program\1.36\protector\authentication.h
+
+1473775995 d:\protector c++\program\1.36\protector\swapencryption.h
+
+1473772624 d:\protector c++\program\1.36\protector\files.h
+
+1473794952 d:\protector c++\program\1.36\protector\interface.h
+
+1473863657 source:d:\protector c++\program\1.36.1\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	<unistd.h>
+	<sys/stat.h>
+	"globals.h"
+	"Drag&Drop.h"
+	"authentication.h"
+	"SwapEncryption.h"
+	"files.h"
+	"Interface.h"
+
+1473862586 d:\protector c++\program\1.36.1\protector\drag&drop.h
+
+1473863895 d:\protector c++\program\1.36.1\protector\authentication.h
+
+1473862586 d:\protector c++\program\1.36.1\protector\swapencryption.h
+
+1473863040 d:\protector c++\program\1.36.1\protector\files.h
+
+1473863863 d:\protector c++\program\1.36.1\protector\interface.h
+
+1473863712 d:\protector c++\program\1.36.1\protector\globals.h
+
+1473863657 source:d:\protector c++\program\1.36.5\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	<unistd.h>
+	<sys/stat.h>
+	"globals.h"
+	"Drag&Drop.h"
+	"authentication.h"
+	"SwapEncryption.h"
+	"files.h"
+	"Interface.h"
+
+1473863712 d:\protector c++\program\1.36.5\protector\globals.h
+
+1473867010 d:\protector c++\program\1.36.5\protector\drag&drop.h
+
+1473866869 d:\protector c++\program\1.36.5\protector\authentication.h
+
+1473862586 d:\protector c++\program\1.36.5\protector\swapencryption.h
+
+1473867190 d:\protector c++\program\1.36.5\protector\files.h
+
+1473867190 d:\protector c++\program\1.36.5\protector\interface.h
+
+1473863657 source:d:\protector c++\program\1.36.6\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	<unistd.h>
+	<sys/stat.h>
+	"globals.h"
+	"Drag&Drop.h"
+	"authentication.h"
+	"SwapEncryption.h"
+	"files.h"
+	"Interface.h"
+
+1473863712 d:\protector c++\program\1.36.6\protector\globals.h
+
+1473867010 d:\protector c++\program\1.36.6\protector\drag&drop.h
+
+1473866869 d:\protector c++\program\1.36.6\protector\authentication.h
+
+1473862586 d:\protector c++\program\1.36.6\protector\swapencryption.h
+
+1473867190 d:\protector c++\program\1.36.6\protector\files.h
+
+1474193771 d:\protector c++\program\1.36.6\protector\interface.h
+
+1474194970 source:d:\protector c++\program\1.36.7\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	<unistd.h>
+	<sys/stat.h>
+	"globals.h"
+	"Drag&Drop.h"
+	"authentication.h"
+	"SwapEncryption.h"
+	"files.h"
+	"Interface.h"
+
+1474194133 d:\protector c++\program\1.36.7\protector\globals.h
+
+1474195382 d:\protector c++\program\1.36.7\protector\drag&drop.h
+
+1474195382 d:\protector c++\program\1.36.7\protector\authentication.h
+
+1474195057 d:\protector c++\program\1.36.7\protector\swapencryption.h
+
+1474195382 d:\protector c++\program\1.36.7\protector\files.h
+
+1474195382 d:\protector c++\program\1.36.7\protector\interface.h
+
+1474196006 source:d:\protector c++\program\1.39\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	<unistd.h>
+	<sys/stat.h>
+	"globals.h"
+	"Drag&Drop.h"
+	"authentication.h"
+	"SwapEncryption.h"
+	"files.h"
+	"Interface.h"
+
+1474194133 d:\protector c++\program\1.39\protector\globals.h
+
+1474195382 d:\protector c++\program\1.39\protector\drag&drop.h
+
+1474230103 d:\protector c++\program\1.39\protector\authentication.h
+
+1474197231 d:\protector c++\program\1.39\protector\swapencryption.h
+
+1474200448 d:\protector c++\program\1.39\protector\files.h
+
+1474200448 d:\protector c++\program\1.39\protector\interface.h
+
+1474196006 source:d:\protector c++\program\1.39.1\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	<unistd.h>
+	<sys/stat.h>
+	"globals.h"
+	"Drag&Drop.h"
+	"authentication.h"
+	"SwapEncryption.h"
+	"files.h"
+	"Interface.h"
+
+1474194133 d:\protector c++\program\1.39.1\protector\globals.h
+
+1474195382 d:\protector c++\program\1.39.1\protector\drag&drop.h
+
+1474230641 d:\protector c++\program\1.39.1\protector\authentication.h
+
+1474197231 d:\protector c++\program\1.39.1\protector\swapencryption.h
+
+1474200448 d:\protector c++\program\1.39.1\protector\files.h
+
+1474230641 d:\protector c++\program\1.39.1\protector\interface.h
+
+1511184076 source:d:\haloc\desktop\protector c++\program\1.39.1\protector\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<thread>
+	<unistd.h>
+	<sys/stat.h>
+	"globals.h"
+	"Drag&Drop.h"
+	"authentication.h"
+	"SwapEncryption.h"
+	"files.h"
+	"Interface.h"
+
+1474197733 d:\haloc\desktop\protector c++\program\1.39.1\protector\globals.h
+
+1474198982 d:\haloc\desktop\protector c++\program\1.39.1\protector\drag&drop.h
+
+1474234241 d:\haloc\desktop\protector c++\program\1.39.1\protector\authentication.h
+
+1474200831 d:\haloc\desktop\protector c++\program\1.39.1\protector\swapencryption.h
+
+1474204048 d:\haloc\desktop\protector c++\program\1.39.1\protector\files.h
+
+1511184770 d:\haloc\desktop\protector c++\program\1.39.1\protector\interface.h
+
