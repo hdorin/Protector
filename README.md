@@ -1,0 +1,1 @@
+Project I did as an attempt to simulate file encryption based on a secret symmetric key. When I started to study real-world cryptograpy at the faculty, I realised that encrypting files is not as easy as I thought. Anyway, I learned about binary file encoding in C++, "tmp" folder and ways to add randomness to cyphertexts.
